@@ -1,0 +1,29 @@
+﻿body{
+	background-color: rgb(77,86,198);
+}
+
+h1{
+	color: rgb(0,0,0);
+	margin-left: 20px;
+}
+
+p{
+	color: whitesmoke;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+.kotak{
+	background: rgb(77,86,198);
+	width: fit-content;
+	color: white;
+	margin: 10px;
+	padding: 20px;
+
+}
+#persegi{
+	padding: 40px;
+	width: fit-content;
+	color: red;
+	margin: 10px;
+	background: yellow;
+}
